@@ -97,6 +97,7 @@ nav > div > a {
     display: block;
     width: 5px;
     height: 5px;
+    border-radius: 5px;
     background-color: rgb(112, 117, 122);
 }
 #weirdgooglesquare > div > div:first-of-type {
